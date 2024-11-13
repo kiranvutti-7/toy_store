@@ -20,11 +20,4 @@ This description can be added to the README or project description section of yo
 
 
 
-You said:
-in one para
-ChatGPT said:
-ChatGPT
-Sure! Here's a concise one-paragraph description:
-
-ToyStore is an online toy store management system built with Java and JDBC, designed to handle operations like managing product listings, customer information, and order processing. Using JDBC for seamless database connectivity, the system allows for efficient querying, updating, and deleting of records in a relational database (e.g., MySQL, PostgreSQL). The project features a catalog for browsing toys, customer registration and login, order placement, and inventory management for administrators, making it a complete solution for an e-commerce toy store.
 
